@@ -1,0 +1,48 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/VHDL - Scott Dickson
+Eseqex
+Z1 w1704631507
+!i122 2
+R0
+Z2 8F:/VHDL - Scott Dickson/seqex.vhd
+Z3 FF:/VHDL - Scott Dickson/seqex.vhd
+l0
+L1 1
+VGg4NzM@614M2]B^E[[B>X0
+!s100 7ZWGgUKI;V51KVW?4kQIg0
+Z4 OV;C;2020.1;71
+32
+Z5 !s110 1704631562
+!i10b 1
+Z6 !s108 1704631562.000000
+Z7 !s90 -reportprogress|300|-work|work|F:/VHDL - Scott Dickson/seqex.vhd|
+Z8 !s107 F:/VHDL - Scott Dickson/seqex.vhd|
+!i113 1
+Z9 o-work work
+Z10 tExplicit 1 CvgOpt 0
+Abehav
+Z11 DEx4 work 5 seqex 0 22 Gg4NzM@614M2]B^E[[B>X0
+!i122 2
+l8
+Z12 L7 15
+Z13 VjE6eFf=QYAA8=CM=E8DW82
+Z14 !s100 @d[cmQOz172kOQT2_5PPb3
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
